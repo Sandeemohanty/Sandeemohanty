@@ -113,7 +113,8 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 ## Code
 
-For the rest of the code, check the
+For the rest of the code, check the [SQL_queries.sql]
+(https://github.com/Sandeemohanty/Sandeemohanty/blob/main/SQL_queries.sql)
 
 ```sql
 -- Create database
